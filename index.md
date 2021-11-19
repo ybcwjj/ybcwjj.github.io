@@ -1,3 +1,9 @@
-#### test ####
+#### 网站链接 ####
+
+<a href="http://121.41.165.189/">我的网站</a>
+
+<a href= "https://www.redis.net.cn/" >redis</a><br>
+<a href="/agentzh-nginx-tutorials-zhcn.pdf" >nginx-tutorials-zhcn</a><br>
+<a href="https://www.cnblogs.com/lywJ/p/10710361.html">nginx配置</a> 
 
 #####ybc#####
