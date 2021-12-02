@@ -5,5 +5,9 @@
 <a href= "https://www.redis.net.cn/" >redis</a><br>
 <a href="/agentzh-nginx-tutorials-zhcn.pdf" >nginx-tutorials-zhcn</a><br>
 <a href="https://www.cnblogs.com/lywJ/p/10710361.html">nginx配置</a> 
-
+<a href="https://www.zhixi.com/">知犀</a> 
+<a href="https://www.lzpan.com/">懒盘搜索</a>
+<a href="http://33.agilestudio.cn/">33台词</a>
+<a href="http://33.agilestudio.cn/">后续</a>
+<a href=""></a>
 #####ybc#####
